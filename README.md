@@ -1,7 +1,7 @@
 # Packing-Files
 A small program for automatically distributing files to folders in the current directory
 
-###The program only works with the current directory!
+### The program only works with the current directory!
 
 Designed to distribute a bunch of photos in separate folders. 
 Lets you specify the name of folders in the format "PrefixItratorSuffix", where the iterator starts with one.
